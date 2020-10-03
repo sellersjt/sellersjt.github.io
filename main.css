@@ -1,0 +1,24 @@
+/*------------------------header/navbar section-------------------------------*/
+
+#nav-logo {
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-nav li a {
+  color: black !important;
+  font-weight: 600;
+  text-align: left;
+  transition: 0.4s;
+}
+
+.navbar-nav li a:hover {
+  text-shadow: 0 0 10px white, 0 0 20px white;
+}
+
+/*------------------------about section-----------------------------------*/
+
+#profile-pic {
+  box-shadow: 1px 10px 10px;
+}
